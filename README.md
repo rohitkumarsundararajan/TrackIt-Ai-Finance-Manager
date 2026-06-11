@@ -38,16 +38,16 @@ Examples include:
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home-page.PNG)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/analytics.PNG)
 
 ### Budget Management
-![Budget Management](screenshots/budget.png)
+![Budget Management](screenshots/budget.PNG)
 
 ## Database Configuration
 
