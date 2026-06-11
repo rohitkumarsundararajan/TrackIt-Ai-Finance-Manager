@@ -1,0 +1,6 @@
+# Database connection settings for FinanceManager
+# Copy this file to config.properties and replace values with your own.
+
+database.url=jdbc:mysql://localhost:3306/finance_manager?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC
+database.username=your-db-username
+database.password=your-db-password
